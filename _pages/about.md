@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>You can find me in the</p>
-    <p>Martinus J. Langeveld /p>
+    <p>Martinus J. Langeveld </p>
     <p>Building< - Office H0.38 </p>
     <p>Utrecht </p>
     <p>The Netherlands </p>
