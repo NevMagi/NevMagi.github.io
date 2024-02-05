@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>You can find me in the</p>
     <p>Martinus J. Langeveld </p>
-    <p>Building, H0.38 </p>
-    <p>Utrecht </p>
+    <p>Building, H0.38. </p>
+    <p>Utrecht, </p>
     <p>The Netherlands </p>
 
 news: true # includes a list of news items
