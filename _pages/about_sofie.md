@@ -1,0 +1,5 @@
+Sofie is our research group leader. She has combined groups at the [Max Planck Institute of Human Cognitive Brain Sciences](https://www.cbs.mpg.de/person/valk/1112085) in Leipzig, and at [INM-7 (Brain and Behaviour) of Forschungszentrum Jülich](https://www.fz-juelich.de/profile/valk_s), Jülich. Our group is called the [Otto Hahn Cognitive Neurogenetics Group](https://www.cbs.mpg.de/independent-research-groups/cognitive-neurogenetics), but may transition to a new name under the Lise Meitner program soon! Follow our [website](https://cng-lab.github.io/people.html) for the latest!
+
+Through our combined work, Sofie studies interplay of structure and functon in the human brain. She has broad interest in (social) cognition, the interplay between genes and environment, evolution and development, and likes using multimodal neuroimaging. Check her [google scholar](https://scholar.google.com/citations?hl=en&user=FvGpB04AAAAJ&view_op=list_works&sortby=pubdate) to find the scientific output of our lab.
+
+She is also a cool boss to work with: find her on [Strava](https://www.strava.com/athletes/41499566), or [LinkedIn](https://www.linkedin.com/in/sofievalk/).
