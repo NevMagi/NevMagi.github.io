@@ -2,4 +2,4 @@ Sofie is our research group leader. She has combined groups at the [Max Planck I
 
 Through our combined work, Sofie studies interplay of structure and functon in the human brain. She has broad interest in (social) cognition, the interplay between genes and environment, evolution and development, and likes using multimodal neuroimaging. Check her [google scholar](https://scholar.google.com/citations?hl=en&user=FvGpB04AAAAJ&view_op=list_works&sortby=pubdate) to find the scientific output of our lab.
 
-She is also a cool boss to work with: find her on [Strava]https://www.strava.com/athletes/41499566), or [LinkedIn](https://www.linkedin.com/in/sofievalk/).
+She is also a cool boss to work with: find her on [Strava](https://www.strava.com/athletes/41499566), or [LinkedIn](https://www.linkedin.com/in/sofievalk/).
