@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'> INM-7 (Brain and Behaviour) Forschungszentrum Jülich </a>. Max Planck Institute for Human Cognitive and Brain Sciences.
 
