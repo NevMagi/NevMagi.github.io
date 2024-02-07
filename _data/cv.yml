@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Neville Magielse
+      value: Albert Einstein
     - name: Date of Birth
-      value: 3rd of February,1998
+      value: 14th March 1879
     - name: Languages
-      value: Dutch, English, German
+      value: English, German
 
 - title: Education
   type: time_table
