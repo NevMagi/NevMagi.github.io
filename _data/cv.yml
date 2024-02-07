@@ -13,14 +13,12 @@
   contents:
     - title: PhD Candidate
       institution: INM-7 (Brain and Behaviour), Forschüngszentrum Jülich GmbH, Jülich, Germany.
-      secondary affiliation: [Otto Hahn Group Cognitive Neurogenetics](https://cng-lab.github.io/index.html), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.
-      guest researcher at: Department of Experimental Psychology, Utrecht Universty, Utrecht, The Netherlands.
-      also part of: The Helmholtz International BigBrain Analytics & Learning Laboratory [(HIBALL)](https://bigbrainproject.org/hiball.html) consortium.
-      Graduation at:  Medical Faculty, Heinrich-Heine University, Düsseldorf, Germany.
       year: 01.2022 - 12.2024
       description:
-        - Description 1.
-        - Description 2.
+        - Secondary affiliation: [Otto Hahn Group Cognitive Neurogenetics](https://cng-lab.github.io/index.html), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.
+        - Guest researcher at: Department of Experimental Psychology, Utrecht Universty, Utrecht, The Netherlands.
+        - Also part of: The Helmholtz International BigBrain Analytics & Learning Laboratory [(HIBALL)](https://bigbrainproject.org/hiball.html) consortium.
+        - Graduation at:  Medical Faculty, Heinrich-Heine University, Düsseldorf, Germany.
         - title: Description 3.
           contents:
             - Sub-description 1.
