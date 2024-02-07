@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - NevMagi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - CNG-LAB/cng-lab.github.io
+  - amnsbr/nimare-gpu
+  - NevMagi/34primates_cerebellum
+  - physiopy/phys2bids
