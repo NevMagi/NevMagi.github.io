@@ -2,23 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Neville Magielse
+      value: Albert Einstein
     - name: Date of Birth
-      value: 3rd of February, 1998
+      value: 14th March 1879
     - name: Languages
-      value: Dutch (Native), English (Excellent to Native), German (Conversational)
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
-      institution: INM-7 (Brain and Behaviour), Forschüngszentrum Jülich GmbH, Jülich, Germany.
-      year: 01.2022 - 12.2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-      - Secondary affiliation: [Otto Hahn Group Cognitive Neurogenetics](https://cng-lab.github.io/index.html), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.
-      - Guest researcher at: Department of Experimental Psychology, Utrecht Universty, Utrecht, The Netherlands.
-      - Also part of: The Helmholtz International BigBrain Analytics & Learning Laboratory [(HIBALL)](https://bigbrainproject.org/hiball.html) consortium.
-      - Graduation at:  Medical Faculty, Heinrich-Heine University, Düsseldorf, Germany.
+        - Description 1.
+        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -29,6 +27,7 @@
       description:
         - Description 1.
         - Description 2.
+
 
 - title: Experience
   type: time_table
