@@ -31,7 +31,7 @@ profiles:
     content: about_bin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Bin was my first office mate/p>
+      <p>Bin was my first office mate</p>
       <p>when I moved to Leipzig and</p>
       <p>can cook like nobody's business</p>
 ---
