@@ -24,7 +24,7 @@ profiles:
     more_info: >
       <p>Primary cerebellar colleague</p>
       <p>Works on cerebellar development</p>
-      <p>and social cognition</p>
+      <p>and social cognition, too!</p>
 
   - align: right
     image: prof_pic.jpg
