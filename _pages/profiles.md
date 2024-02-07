@@ -18,7 +18,7 @@ profiles:
       <p>At Max Planck CBS in Leipzig</p>
       <p>and Forschungszentrum Jülich (INM-7)</p>
   - align: left
-    image: pkaterina.jpg
+    image: katerina.jpg
     content: about_katerina.md
     image_circular: false # crops the image to make it circular
     more_info: >
