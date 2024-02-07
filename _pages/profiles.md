@@ -14,6 +14,7 @@ profiles:
     content: about_sofie.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Dr. Sofie Louise Valk</p>
       <p>Research Group Leader</p>
       <p>At Max Planck CBS in Leipzig</p>
       <p>and Forschungszentrum Jülich (INM-7)</p>
@@ -22,6 +23,7 @@ profiles:
     content: about_katerina.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Katerina Manoli, MSc.</p>
       <p>Primary cerebellar colleague</p>
       <p>Works on cerebellar development</p>
       <p>and social cognition, too!</p>
@@ -31,7 +33,9 @@ profiles:
     content: about_bin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Bin was my first office mate</p>
-      <p>when I moved to Leipzig and</p>
-      <p>can cook like nobody's business</p>
+      <p> Bin Wan, MSc.</p>
+      <p>Bin was my first office</p>
+      <p>mate when I moved to</p>
+      <p>Leipzig and can cook</p>
+      <p> like nobody's business </p>
 ---
