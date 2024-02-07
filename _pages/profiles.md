@@ -27,11 +27,11 @@ profiles:
       <p>and social cognition, too!</p>
 
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: bin.jpeg
+    content: about_bin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Bin was my first office mate/p>
+      <p>when I moved to Leipzig and</p>
+      <p>can cook like nobody's business</p>
 ---
