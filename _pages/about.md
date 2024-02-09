@@ -21,6 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+Note: website under construction (don't mistake Einstein's CV for mine, either).
+
 Hi, my name is Neville Magielse and I am currently a third-year PhD student in the group of Dr. Sofie Valk. I am broadly interested in neuroscience, love doing data visualisation, writing, and generally fond of telling stories. I always aim to have an outgoing, eager, and connecting attitude, making the most out of any project I am involved in.
 
 My scientific work is primarily focused on characterizing cerebellar structure and function, and unifying multimodal, system-level perspectives into a common framework. So far in my PhD, I have worked on three main cerebellar projects (find them in the [projects](https://nevmagi.github.io/projects/) page): one on primate evolution, one on human development, and one on large-scale meta-analytic mapping.
