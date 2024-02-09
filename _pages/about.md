@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Note: website under construction (don't mistake Einstein's CV for mine, either).
+Note: website under construction (don't mistake Einstein's CV for mine, either). My CV can be found on the CV page through the CV button!
 
 Hi, my name is Neville Magielse and I am currently a third-year PhD student in the group of Dr. Sofie Valk. I am broadly interested in neuroscience, love doing data visualisation, writing, and generally fond of telling stories. I always aim to have an outgoing, eager, and connecting attitude, making the most out of any project I am involved in.
 
